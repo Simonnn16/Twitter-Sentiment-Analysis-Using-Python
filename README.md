@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis-Using-Python
+Twitter Sentiment Analysis is a technique using advanced text mining techniques to analyse the sentiment of the text in the form of positive, negative and neutral. It is also known as Opinion Mining, is primarily for analysing conversations, opinions, and sharing of views for deciding business strategy, political analysis, and also for assessing public actions.
